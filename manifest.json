@@ -1,0 +1,21 @@
+{
+    "name": "Coelha - Lousa Mágica com IA",
+    "short_name": "Coelha",
+    "description": "Dê um salto em sua criatividade com a lousa mágica da Coelha!",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#f9fafb",
+    "theme_color": "#ec4899",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
